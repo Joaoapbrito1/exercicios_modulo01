@@ -2,7 +2,7 @@
 
 **Idade:** 27 anos
 
-**Curso:** Sistema de Informação
+**Curso:** Sistemas de Informação
 
 ---
 
