@@ -12,6 +12,6 @@ Sou João Aparecido de Brito, atualmente sou estudante de Sistema de Informaçã
 
 ---
 
-## Meus Objetivo Profissionai
+## Meu Objetivo Profissional
 
 - Torna um Desenvolvedor Back-end
